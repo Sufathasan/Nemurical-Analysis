@@ -4,3 +4,5 @@
 - Bisection Method
 - False Position Method
 - Newton Raphson Method
+- Gauss Elimination Method
+  
